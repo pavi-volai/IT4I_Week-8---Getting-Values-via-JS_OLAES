@@ -1,1 +1,2 @@
-# IT4I_Week-8---Getting-Values-via-JS_OLAES
+# IT4I_OLAES, PAVIOLA R.
+PS. Upload AdminLTE to newly created assets folder in public folder. Put the js folder inside assets folder.
